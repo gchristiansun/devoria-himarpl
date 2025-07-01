@@ -1,6 +1,6 @@
 <p align="center">
   <br />
-  <a href="https://www.himarpl.com">
+  <a href="https://www.himarpl.org">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/himarplupi/assets-himarpl@v1.3.5/images/logo/logo-landscape-dark.png">
       <img src="https://cdn.jsdelivr.net/gh/himarplupi/assets-himarpl@v1.3.5/images/logo/logo-landscape-light.png" width="200px">
@@ -10,6 +10,7 @@
 
 <p align="center">
   <a href="https://www.himarpl.org">himarpl.org</a> built using React JS with Vite.
+
 </p>
 
 <p align="center">
@@ -21,6 +22,9 @@
       <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/powered%20by-Vercel%20%E2%96%B2-white">
       <img src="https://img.jsdelivr.net/gh/himarplupi/assets-himarpl@v1.3.5/images/logo/logo-landscape-light.png" alt="Powered by Vercel">
     </picture>
+  </a>
+  <a title="CODE_OF_CONDUCT" href="CODE_OF_CONDUCT.md">
+    <img src="https://img.shields.io/badge/Code%20of%20Conduct-Contributor%20Covenant-ff69b4.svg" alt="Code of Conduct">
   </a>
   <br />
 </p>
