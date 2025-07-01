@@ -47,7 +47,7 @@ export default function Home() {
   return (
     <>
       <SEO />
-      <div id="home" className="pt-[80px] bg-white ">
+      <div id="home" className="pt-[80px] bg-white">
         <div className="relative">
           <div className="flex lg:flex-row flex-col lg:gap-32 gap-4 lg:items-center items-start  lg:w-[1220px] lg:mx-[110px] mx-4">
             <div className="lg:max-w-[555px] flex flex-col gap-2">
